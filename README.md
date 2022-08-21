@@ -1,1 +1,1 @@
-Object-oriented programming
+Mini assignment Java
